@@ -1,4 +1,4 @@
-# Deploy ML models with FastAPI, Docker, and Heroku
+# Deploy ML models with FastAPI, Docker
 
 ### 1. Develop and save the model with this Colab
 
